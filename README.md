@@ -4,7 +4,6 @@ This project implements thread-safe hash table operations using pthread mutexes.
 
 ## Building
 ```shell
-cd /home/cs111/lab3/lab3
 make
 ```
 
